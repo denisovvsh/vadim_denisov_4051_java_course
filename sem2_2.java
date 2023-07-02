@@ -1,3 +1,5 @@
+//2)* Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
